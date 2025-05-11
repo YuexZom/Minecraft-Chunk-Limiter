@@ -1,0 +1,9 @@
+block-limits:
+  OBSIDIAN:
+    limit: 50
+    replace-with: COBBLESTONE
+  BEACON:
+    limit: 5
+    replace-with: STONE
+
+redstone-limit: 10

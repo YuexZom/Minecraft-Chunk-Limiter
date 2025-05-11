@@ -1,0 +1,7 @@
+name: SlotChunkLimiter
+version: '${version}'
+main: me.rexoz.xyz.slotchunklimiter.Main
+author: Rexoz
+commands:
+  chunklimiter:
+    permission: chunklimiter.reload
